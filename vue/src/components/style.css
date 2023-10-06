@@ -1,0 +1,38 @@
+
+.tela-calc{
+
+    background-color: black;
+    padding: 1em;
+   
+    
+
+}
+h1{
+  color: aliceblue;
+  margin-left: 4em;
+  font-size: 2.5em;
+}
+
+
+button{
+
+    width: 3em;
+    height: 3em;
+    background-color: rgb(28, 143, 250);
+    font-size: 1.5em;
+    border:none;
+    border-radius: 2rem;
+    margin: 0.3em;
+    
+    
+}
+
+
+button:hover{
+    
+    background-color: #b9cae0;
+  }
+
+
+
+
